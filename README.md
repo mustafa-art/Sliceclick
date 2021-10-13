@@ -1,1 +1,1 @@
-# Investigate the absense for medical appointment 
+# Investigate the absence for medical appointment 
